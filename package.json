@@ -1,0 +1,13 @@
+{
+  "name": "node-express-vercel",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/simbustr/node-express-vercel.git",
+  "author": "silambarasan <hellosimbu2023@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
