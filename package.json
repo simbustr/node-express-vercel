@@ -2,6 +2,9 @@
   "name": "node-express-vercel",
   "version": "1.0.0",
   "main": "server.js",
+  "engines": {
+    "node": "18.x"
+  },
   "repository": "https://github.com/simbustr/node-express-vercel.git",
   "author": "silambarasan <hellosimbu2023@gmail.com>",
   "license": "MIT",
